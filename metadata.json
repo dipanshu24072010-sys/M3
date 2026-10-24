@@ -1,0 +1,8 @@
+{
+  "name": "M3 Cafe & Restaurant | Faizabad",
+  "description": "Discover M3 Cafe & Restaurant in Ayodhya, Uttar Pradesh. Artisanal coffee, tandoor specials, momos, gourmet food, relaxed dining ambience, table reservations, and visit details.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
